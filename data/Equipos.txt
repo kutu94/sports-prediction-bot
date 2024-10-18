@@ -1,0 +1,59 @@
+Equipos únicos en el dataset:
+Alaves
+Albacete
+Alcorcon
+Almeria
+Amorebieta
+Andorra
+Ath Bilbao
+Ath Madrid
+Barcelona
+Betis
+Burgos
+Cadiz
+Cartagena
+Castellon
+Celta
+Cordoba
+Eibar
+Elche
+Eldense
+Espanol
+Extremadura UD
+Ferrol
+Fuenlabrada
+Getafe
+Gimnastic
+Girona
+Granada
+Huesca
+Ibiza
+La Coruna
+Las Palmas
+Leganes
+Levante
+Logrones
+Lugo
+Malaga
+Mallorca
+Mirandes
+Numancia
+Osasuna
+Oviedo
+Ponferradina
+Rayo Majadahonda
+Real Madrid
+Reus Deportiu
+Sabadell
+Santander
+Sevilla
+Sociedad
+Sociedad B
+Sp Gijon
+Tenerife
+Valencia
+Valladolid
+Vallecano
+Villarreal
+Villarreal B
+Zaragoza
